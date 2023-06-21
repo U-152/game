@@ -53,8 +53,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da her kartın
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Docs](https://docs.google.com/document/d/156WEWjvRlmxHPcjdiwkGbfxHu6gXw5fMJMLxm2cNSxk/edit?usp=sharing)
 
 - **Sprint board update:** Sprint board screenshotları:
-  ![First Screenshot](https://cdn.discordapp.com/attachments/1114972090580357156/1121156920548532395/Ekran_Resmi_2023-06-21_22.15.56.png "First Screenshot")
-  ![Second Screenshot](https://cdn.discordapp.com/attachments/1114972090580357156/1121156921278349414/Ekran_Resmi_2023-06-21_22.16.07.png "Second Screenshot")
+  ![First Screenshot](https://cdn.discordapp.com/attachments/1114972090580357153/1121162541582794762/Buyuk_Ekran_Resmi_2023-06-21_22.15.56.jpeg "First Screenshot")
+  ![Second Screenshot](https://cdn.discordapp.com/attachments/1114972090580357153/1121162541863809094/Buyuk_Ekran_Resmi_2023-06-21_22.16.07.jpeg "Second Screenshot")
 
 - **Ürün Durumu:** Ekran görüntüleri:
   ![First Screenshot](https://cdn.discordapp.com/attachments/1114972090580357153/1120263851921911919/level1.png "First Screenshot")
