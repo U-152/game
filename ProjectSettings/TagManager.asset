@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Pota
   - NextLevel
+  - Enemy
   layers:
   - Default
   - TransparentFX
