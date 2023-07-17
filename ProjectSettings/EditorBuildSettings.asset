@@ -41,4 +41,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level11.unity
     guid: a39d0bfe520bd8b42aea4d246ca9c396
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: 7cd465cf9ba37a34ba7bc55144bb039f
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: 85233968b7706124ebd65f7b4a25d2cf
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: 1f7a8514976147b46aece26fb9d760ec
+  - enabled: 1
+    path: Assets/Scenes/Level15.unity
+    guid: 7e0dc1366b5d62648ae1c34aba263925
+  - enabled: 1
+    path: "Assets/Scenes/ZBiti\u015FEkran\u0131.unity"
+    guid: 9c9a3093c97ea4243aa3650d15ca1926
   m_configObjects: {}
