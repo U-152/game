@@ -73,8 +73,46 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da her kartın
 
 # Sprint 2
 
+- **Sprint notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 200 Puan
+
+- **Sprint board update:** Sprint board screenshotları:
+  ![First Screenshot](https://cdn.discordapp.com/attachments/1089900156582895626/1130614179175334028/Ekran_Resmi_2023-07-18_00.33.27.png "First Screenshot")
+  ![Second Screenshot](https://cdn.discordapp.com/attachments/1089900156582895626/1130614179762544720/Ekran_Resmi_2023-07-18_00.33.55.png "Second Screenshot")
+
+- **Ürün Durumu:** Ekran görüntüleri:
+  ![First Screenshot](https://cdn.discordapp.com/attachments/1114972090580357153/1130611550319824948/b996d126-859d-4562-9e60-c3348a3b7216.jpg "First Screenshot")
+
+- **Sprint Review:** Alınan kararlar: Seviye tasarımları yapıldı. Puanlama sistemi ve ekstra mekanik fikirleri kararlaştırıldı.
+
+- **Sprint Retrospective:**
+
+  - Tasarımlar hazırlanmalı
+  - Seviye tasarımları kodlanmaya başlanmalı
+
+- **Diğer Notlar:**
+  - Yok
+
 ---
 
 # Sprint 3
+
+- **Sprint notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 200 Puan
+
+- **Sprint board update:** Sprint board screenshotları:
+  ![First Screenshot](https://cdn.discordapp.com/attachments/1089900156582895626/1130614180286824488/Ekran_Resmi_2023-07-18_00.36.17.png "First Screenshot")
+  ![Second Screenshot](https://cdn.discordapp.com/attachments/1089900156582895626/1130614180911784049/Ekran_Resmi_2023-07-18_00.36.32.png "Second Screenshot")
+
+- **Ürün Durumu:** Ekran görüntüleri:
+  ![First Screenshot](https://cdn.discordapp.com/attachments/1114972090580357153/1130611934648078489/image.png "First Screenshot")
+  ![First Screenshot](https://cdn.discordapp.com/attachments/1114972090580357153/1130594233619841195/giris2.png "First Screenshot")
+
+- **Sprint Review:** Alınan kararlar: Seviyeler kodlandı ve UI hazırlandı. Ürün videosu çekildi.
+
+- **Diğer Notlar:**
+  - Yok
 
 ---
